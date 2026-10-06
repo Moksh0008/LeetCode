@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Moksh0008/LeetCode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Moksh0008/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Moksh0008/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0506-relative-ranks](https://github.com/Moksh0008/LeetCode/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/Moksh0008/LeetCode/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Moksh0008/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Moksh0008/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0506-relative-ranks](https://github.com/Moksh0008/LeetCode/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/Moksh0008/LeetCode/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Moksh0008/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0506-relative-ranks](https://github.com/Moksh0008/LeetCode/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/Moksh0008/LeetCode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
