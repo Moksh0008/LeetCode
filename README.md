@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Moksh0008/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Moksh0008/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Moksh0008/LeetCode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/Moksh0008/LeetCode/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Moksh0008/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Moksh0008/LeetCode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/Moksh0008/LeetCode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Moksh0008/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/Moksh0008/LeetCode/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -87,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Moksh0008/LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Moksh0008/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Moksh0008/LeetCode/tree/master/0704-binary-search) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Moksh0008/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
