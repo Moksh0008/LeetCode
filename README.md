@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Moksh0008/LeetCode/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/Moksh0008/LeetCode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Moksh0008/LeetCode/tree/master/0912-sort-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Moksh0008/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Moksh0008/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Moksh0008/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
