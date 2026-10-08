@@ -35,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Moksh0008/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Moksh0008/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Moksh0008/LeetCode/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Moksh0008/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Moksh0008/LeetCode/tree/master/0013-roman-to-integer) |
+| [0387-first-unique-character-in-a-string](https://github.com/Moksh0008/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Moksh0008/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/Moksh0008/LeetCode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
@@ -94,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Moksh0008/LeetCode/tree/master/0202-happy-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Moksh0008/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
